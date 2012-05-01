@@ -1,7 +1,7 @@
 
 Edit name and email
-1) git config --global user.name Doruk Ozkaya
-2) git config --global user.email odoruk@gmail.com
+1) git config --global user.name Cenk Ozkay
+2) git config --global user.email ocenk@gmail.com
 
 Create new repository locally
 1) mkdir helloworld
