@@ -11,7 +11,7 @@ Create new repository locally
 
 Add or edit new file to remote repository
 First connection add is;
-- git remote add origin git@github.com:odoruk/helloworld.git
+- git remote add origin git@github.com:…..
 
 1) git add .
 2) git commit -m 'added png'
@@ -19,4 +19,4 @@ First connection add is;
 
 
 Cloning smo elses repository to local
-1) git clone git@github.com:cpekiner/GamePlan-Android-Phone.git
+1) git clone git@github.com:……
