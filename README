@@ -1,0 +1,4 @@
+
+1) git add .
+2) git commit -m 'added png'
+3) git push
