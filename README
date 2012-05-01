@@ -9,7 +9,14 @@ Create new repository locally
 3) git init
 4) touch README
 
-Add or edit new file to repository
+Add or edit new file to remote repository
+First connection add is;
+- git remote add origin git@github.com:odoruk/helloworld.git
+
 1) git add .
 2) git commit -m 'added png'
 3) git push
+
+
+Cloning smo elses repository to local
+1) git clone git@github.com:cpekiner/GamePlan-Android-Phone.git
