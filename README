@@ -1,3 +1,10 @@
+Register your mac in github account
+1) cd ~/.ssh
+2) ssh-keygen -t rsa -C "your_email@youremail.com"
+3) make hiddedn folders visible 
+     - defaults write com.apple.finder AppleShowAllFiles TRUE
+     - killall Finder
+4) copy ssh key in ./ssh/id.rsa.pub to github private ssh in github.com
 
 Edit name and email
 1) git config --global user.name Cenk Ozkay
